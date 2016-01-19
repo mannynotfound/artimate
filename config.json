@@ -1,0 +1,16 @@
+{
+  "max_likes": 1000,
+  "max_follows": 100,
+  "tumblr_api": {
+    "consumer_key": "XXX",
+    "consumer_secret": "XXX",
+    "token": "XXX",
+    "token_secret": "XXX"
+  },
+  "tags": [
+    "lmao",
+    "who",
+    "did",
+    "this"
+  ]
+}

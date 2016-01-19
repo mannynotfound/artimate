@@ -1,0 +1,6 @@
+*.log*
+/node_modules
+/coverage
+dump.rdb
+.DS_STORE
+config-real.json
