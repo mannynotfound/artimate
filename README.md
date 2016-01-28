@@ -4,6 +4,9 @@
   <img src="https://raw.githubusercontent.com/artnotfound/artimate/master/coverage.png" />
   <br />
   <img src="https://raw.githubusercontent.com/artnotfound/artimate/master/artimate.png" />
+  <br />
+  <br />
+  <img width="320" src="https://raw.githubusercontent.com/artnotfound/artimate/master/artimate_logo_white.png" />
 </p>
 
 
