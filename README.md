@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style="margin-bottom: -20px;">
   <!-- lol -->
   <img src="https://raw.githubusercontent.com/artnotfound/artimate/master/coverage.png" />
   <br />
@@ -12,6 +12,7 @@ Artimate is a node app that enables the automation of your social media accounts
 A.K.A. a shameless social media marketing bot. 
 
 <p align="center">
+  <br />
   <img src="https://raw.githubusercontent.com/artnotfound/artimate/master/artimate.png" />
 </p>
 
