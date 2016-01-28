@@ -11,16 +11,16 @@
 Artimate is a node app that enables the automation of your social media accounts so you can focus on producing content,
 A.K.A. a shameless social media marketing bot. 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/artnotfound/artimate/master/artimate.png" />
+</p>
+
 ## Motivation
 
 I could talk about the growing struggles of having to be an artist, promoter, manager, etc but the real motivation is to be able to masturbate/post on twitter/eat shit
 and still feel like im being productive. 
 
 ## Usage
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/artnotfound/artimate/master/artimate.png" />
-</p>
 
 ### tumblr:
   * follow the beginning [these steps](http://www.nextscripts.com/setup-installation-tumblr-social-networks-auto-poster-wordpress/) to set up a Tumblr app
